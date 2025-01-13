@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
     public class MyArrayList<T> {
         private Object[] array;
         private int size;
